@@ -1,0 +1,30 @@
+{
+  "name": "michapp-be",
+  "version": "1.0.0",
+  "description": "backend / services for Michapp web app for stray cat tracking for cat adoption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maarato/michapp-be.git"
+  },
+  "keywords": [
+    "michapp",
+    "michi",
+    "cats"
+  ],
+  "author": "alexsaurio.rex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maarato/michapp-be/issues"
+  },
+  "homepage": "https://github.com/maarato/michapp-be#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
